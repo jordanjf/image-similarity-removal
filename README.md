@@ -36,7 +36,7 @@ After running the script:
 
 ```bash
 python exclui_semelhantes.py
-
+```
 
 ## Install the dependencies
 You can install the dependencies using the following command:
