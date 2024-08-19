@@ -24,6 +24,20 @@ Contributions are welcome! If you find any issues or want to improve the project
 ## License
 This project is licensed under the Apache License 2.0. See the LICENSE file for more details.
 
+## Example
+
+Suppose you have the following images in a folder "imagens":
+
+- image1.jpg
+- image2.jpg
+- image3.jpg
+
+After running the script:
+
+```bash
+python exclui_semelhantes.py
+
+
 ## Install the dependencies
 You can install the dependencies using the following command:
 
