@@ -20,3 +20,11 @@ You can install the dependencies using the following command:
 
 ```bash
 pip install opencv-python scikit-image numpy
+
+## Usage
+Run the script by passing the path to the directory containing the images:
+python exclui_semelhantes.py
+## Contributions
+Contributions are welcome! If you find any issues or want to improve the project, feel free to open an issue or submit a pull request.
+## License
+This project is licensed under the Apache License 2.0. See the LICENSE file for more details.
