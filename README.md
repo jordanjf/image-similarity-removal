@@ -24,9 +24,8 @@ Contributions are welcome! If you find any issues or want to improve the project
 ## License
 This project is licensed under the Apache License 2.0. See the LICENSE file for more details.
 
+## Install the dependencies
 You can install the dependencies using the following command:
 
 ```bash
 pip install opencv-python scikit-image numpy
-
-
